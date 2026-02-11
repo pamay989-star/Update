@@ -1,15 +1,15 @@
 [
     {
         "device_id": "6c7519a55000828e",
-        "username": "user1",
-        "password": "kkh",
-        "expirydate": "31-12-2026",
+        "username": "kkh",
+        "password": "123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
+        "device_id": "6c7519a55000828e",
+        "username": "kkh",
+        "password": "123",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
